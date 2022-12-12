@@ -325,7 +325,7 @@
 			},
 			"response": [
 				{
-					"name": "price can Input Integer",
+					"name": "price can Input number",
 					"originalRequest": {
 						"method": "POST",
 						"header": [
